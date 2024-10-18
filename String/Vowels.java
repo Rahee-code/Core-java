@@ -13,15 +13,7 @@ public class Vowels {
 				System.out.print(s1.charAt(i)+" ");
 			}
 		}
-		int a=10;
-		int b=10;
-		System.out.println(a==b);
-		String s2="java";
-		String ss="java";
-		System.out.println(s2==ss);
-		String s11=new String("java");
-		String s12=new String("java");
-		System.out.println(s11.equals(s12));
+		
 
 	}
 
